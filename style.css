@@ -44,8 +44,9 @@ header{
   position: static;
 }
 .container{
-  position: relative;
+  background-position: auto;
   text-align: left;
+  background-repeat: no-repeat;
 }
 .left{
   position: absolute;
